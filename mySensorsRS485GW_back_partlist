@@ -1,0 +1,33 @@
+Partlist
+
+Exported from mySensorsRS485GW_back.brd at 30.12.17 15:26
+
+EAGLE Version 8.1.1 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value           Package             Library                    Position (mm)         Orientation
+
+C1       100nF           C025-025X050        rcl                        (12.7 5.08)           R270
+C2       10uF            TT2D5               resistor                   (17.78 5.08)          R270
+C3       1uF             TT2D5               resistor                   (66.04 29.21)         R270
+C4       2.2uF           TT2D5               resistor                   (81.28 29.21)         R270
+D1       1N4004          DO41-10             adafruit                   (27.94 22.86)         R180
+D2       1N4148          DO-1N4148           adafruit                   (73.66 30.48)         R180
+DC2      SIM1-2405 SIL4  NME                 dc-dc-converter            (33.02 30.48)         R270
+F1       SF 0.25A        NANO2_SMF_FUSEBLOCK _hhn_littlefuse_Nano2SMF_2 (18.415 29.21)        R0
+IC1      MAX 485 CPA     DIL08               maxim                      (16.51 13.97)         R90
+IC2      LP2950CZ-3.3    TO92                v-reg                      (73.66 27.94)         R180
+JP1      Terminator      JP1                 jumper                     (5.08 7.62)           R270
+JP2      Front Panel     2X03                pinhead                    (57.15 26.67)         R270
+JP3      W5500L-L        1X06                adafruit                   (73.66 22.86)         R180
+JP4      W5500L-R        1X06                adafruit                   (73.66 2.54)          R180
+R1       20k             0207/2V             resistor                   (5.08 3.81)           R0
+R2       120             0207/2V             resistor                   (19.05 22.86)         R0
+R3       20k             0207/2V             resistor                   (13.97 22.86)         R0
+R4       220             0207/7              resistor                   (45.72 30.48)         R180
+R5       220             0207/7              resistor                   (45.72 26.67)         R180
+R6       220             0207/7              resistor                   (45.72 22.86)         R180
+RN1      10k             SIL5                resistor-sil               (24.13 12.7)          R90
+U$1      ABK-PRO-MINI    ABK-PRO-MINI        Arduino-clone              (50.8 13.97)          R270
+X1       MKDSN1,5/4-5,08 MKDSN1,5/4-5,08     con-phoenix-508            (5.08 21.59)          R270

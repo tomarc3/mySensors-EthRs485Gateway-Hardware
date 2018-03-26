@@ -1,0 +1,9 @@
+mySensorsRS485 Gateway is a mySensors compatible Ethernet / RS485 gateway with reset and inclusion mode button and traffic/error LEDs.
+Details see https://www.mysensors.org/build/rs485 .
+
+The Boards are dimesioned to fit a DIN rail standard height module box CNMB/2 by Camden Boss.
+See https://secure.reichelt.com/ch/de/Hutschienengehaeuse/CB-HUTKIT-2/3/index.html?ACTION=3&LA=10030&ARTICLE=133936&GROUPID=7718&artnr=CB+HUTKIT+2
+
+
+
+

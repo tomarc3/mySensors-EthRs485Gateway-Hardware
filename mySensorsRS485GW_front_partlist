@@ -1,0 +1,20 @@
+Partlist
+
+Exported from mySensorsRS485GW_front.sch at 30.12.17 15:27
+
+EAGLE Version 8.1.1 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library      Sheet
+
+C1       100nF          C-US025-025X050 C025-025X050 adafruit     1
+C2       100nF          C-US025-025X050 C025-025X050 adafruit     1
+JP1      Back Panel     PINHD-2X3       2X03         pinhead      1
+JP2      Serial Back    PINHD-1X5       1X05         pinhead      1
+JP3      Serial Front   PINHD-1X5       1X05         pinhead      1
+LED1     ERR            LED3MM          LED3MM       led          1
+LED2     RX             LED3MM          LED3MM       led          1
+LED3     TX             LED3MM          LED3MM       led          1
+S1       INCLUDE        10-XX           B3F-10XX     switch-omron 1
+S2       RESET          10-XX           B3F-10XX     switch-omron 1
